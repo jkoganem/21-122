@@ -1,1 +1,1 @@
-# 21-122
+# Numerical methods covered in 21-122 (Calculus 2) 
